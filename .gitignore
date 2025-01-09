@@ -13,3 +13,13 @@
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+Content/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_MSR_M.uasset
+Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/5C/5G8PYJ4E4VYUH6BJJZ6714.uasset
+Content/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Wheel_M.uasset
+Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/1P/LIVOURXQMVQB9GBPKV0RLA.uasset
+Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/S0/RJKVJCDVTHKGGSDSDG2W9T.uasset
+Content/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Wheels_RMA.uasset
+Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/O4/E3Z8H79ZU52XLU8ILP50RQ.uasset
+Content/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Wheels_N.uasset
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
